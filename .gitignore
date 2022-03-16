@@ -1,0 +1,5 @@
+# python virtual env
+.env
+
+# large data files
+large_data/
